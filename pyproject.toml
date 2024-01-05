@@ -16,7 +16,7 @@ chevron = "0.14.0"
 
 [tool.poetry.group.dev.dependencies]
 black = {extras = ["d"], version = "^23.1.0"}
-flake8 = ">=5.0.4,<7.0.0"
+flake8 = ">=5.0.4,<8.0.0"
 pytest-cov = "^4.0.0"
 # https://github.com/psf/black/issues/1928#issuecomment-910337314
 typing-extensions = "^4.3.0"
